@@ -1,0 +1,13 @@
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\bin\Debug\netcoreapp3.1\ExeJoseInterface.exe
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\bin\Debug\netcoreapp3.1\ExeJoseInterface.deps.json
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\bin\Debug\netcoreapp3.1\ExeJoseInterface.runtimeconfig.json
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\bin\Debug\netcoreapp3.1\ExeJoseInterface.runtimeconfig.dev.json
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\bin\Debug\netcoreapp3.1\ExeJoseInterface.dll
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\bin\Debug\netcoreapp3.1\ExeJoseInterface.pdb
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\obj\Debug\netcoreapp3.1\ExeJoseInterface.csprojAssemblyReference.cache
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\obj\Debug\netcoreapp3.1\ExeJoseInterface.AssemblyInfoInputs.cache
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\obj\Debug\netcoreapp3.1\ExeJoseInterface.AssemblyInfo.cs
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\obj\Debug\netcoreapp3.1\ExeJoseInterface.csproj.CoreCompileInputs.cache
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\obj\Debug\netcoreapp3.1\ExeJoseInterface.dll
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\obj\Debug\netcoreapp3.1\ExeJoseInterface.pdb
+C:\Users\Trabalhos\Documents\_Faculdade\ExeJoseInterface\obj\Debug\netcoreapp3.1\ExeJoseInterface.genruntimeconfig.cache

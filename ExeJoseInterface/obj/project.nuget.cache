@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XyoEetkzperseQsvkY1ygzywTDZ4Rn/REKGwemdR2q66HyXQEgl0BDSx0FXo9iaz0Smc7Qj1V9E4Fudnqciw+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Trabalhos\\Documents\\_Faculdade\\ExeJoseInterface\\ExeJoseInterface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trabalhos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
